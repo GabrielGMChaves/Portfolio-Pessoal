@@ -1,0 +1,80 @@
+#corpo
+{
+    background-color: #272727;
+}
+#cabecalho
+{
+    color:#29f3c3;
+    font-family: 'OCR A Std', sans-serif;
+    font-size: large;
+}
+body
+{
+    color:#29f3c3;
+}
+img 
+{
+    border-radius: 50%;
+}
+#corpocentro
+{
+    border-width: thin;
+    border:#29f3c3;
+    border-left: solid;
+}
+#brancofonte
+{
+    color: white;
+    font-family: 'OCR A Std', sans-serif;
+    font-size: large;
+}
+
+#brancogrosso
+{
+    color: white;
+    font-family: 'OCR A Std', sans-serif;
+    font-size: large;
+    font-weight: bold;
+    transition: color 0.6s linear;
+}
+#brancogrosso:hover
+{
+    color:#29f3c3;
+}
+#informacoes
+{
+    color: white;
+    font-family: 'OCR A Std', sans-serif;
+    font-size: large;
+    transition: color 0.6s linear;
+}
+#informacoes:hover
+{
+    color:#29f3c3;
+}
+
+.border-button 
+{
+    border-bottom: solid 5px #29f3c3;
+    transition: border-width 0.6s linear;
+}
+  
+.border-button:hover 
+{ 
+    border-width: 10px; 
+}
+#titulocorpo
+{
+    font-weight: bold;
+}
+#subtitulocorpo
+{
+    margin-bottom: 2px;
+    border-bottom:  solid 2px #29f3c3;
+    font-weight: bold;
+    font-size: medium;
+}
+#textocorpo
+{
+    font-size: small;
+}
