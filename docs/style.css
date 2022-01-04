@@ -89,3 +89,14 @@ img
 {
     font-size: small;
 }
+#itemlinks
+{
+    display: flex;
+    justify-content: center;
+    transition: border-width 0.6s linear;
+    border-bottom: solid 2px #29f3c3;
+}
+#itemlinks:hover
+{
+    border-width: 5px;
+}
