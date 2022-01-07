@@ -82,7 +82,7 @@ img
 {
     margin-bottom: 2px;
     border-bottom:  solid 2px #29f3c3;
-    font-weight: bold;
+    font-weight: lighter;
     font-size: medium;
 }
 #textocorpo
@@ -99,4 +99,11 @@ img
 #itemlinks:hover
 {
     border-width: 5px;
+}
+.efeito{
+    border-left: 0px #29f3c400 solid;
+    transition: border-left 2s linear;
+}
+.efeito:hover{
+    border-left: 15px #29f3c400 solid;
 }
