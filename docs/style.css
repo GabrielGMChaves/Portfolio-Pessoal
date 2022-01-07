@@ -5,11 +5,11 @@
 #cabecalho
 {
     color:#29f3c3;
-    font-family: 'OCR A Std', sans-serif;
     font-size: large;
 }
 body
 {
+    font-family: 'Chakra Petch', sans-serif;
     color:#29f3c3;
 }
 img 
@@ -25,14 +25,12 @@ img
 #brancofonte
 {
     color: white;
-    font-family: 'OCR A Std', sans-serif;
     font-size: large;
 }
 
 #brancobold
 {
     color: white;
-    font-family: 'OCR A Std', sans-serif;
     font-size: large;
     font-weight: bold;
     transition: color 0.6s linear;
@@ -44,7 +42,6 @@ img
 #informacoes
 {
     color: white;
-    font-family: 'OCR A Std', sans-serif;
     font-size: large;
     transition: color 0.6s linear;
 }
@@ -55,7 +52,6 @@ img
 .informacoes
 {
     color: white;
-    font-family: 'OCR A Std', sans-serif;
     font-size: large;
     transition: color 0.6s linear;
 }
