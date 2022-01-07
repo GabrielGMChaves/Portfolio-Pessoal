@@ -103,3 +103,10 @@ img
 .efeito:hover{
     border-left: 15px #29f3c400 solid;
 }
+.miniefeito{
+    border-left: 0px #29f3c400 solid;
+    transition: border-left 1s linear;
+}
+.miniefeito:hover{
+    border-left: 5px #29f3c400 solid;
+}
