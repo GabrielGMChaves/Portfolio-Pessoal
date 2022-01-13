@@ -64,27 +64,23 @@ img
 .border-button 
 {
     border-bottom: solid 5px #29f3c3;
-    transition: border-width 0.6s linear;
 }
-  
-.border-button:hover 
-{ 
-    border-width: 10px; 
-}
+
 #titulocorpo
 {
     font-weight: bold;
+    font-size: x-large;
 }
 #subtitulocorpo
 {
     margin-bottom: 2px;
     border-bottom:  solid 2px #29f3c3;
     font-weight: lighter;
-    font-size: medium;
+    font-size: large;
 }
 #textocorpo
 {
-    font-size: small;
+    font-size: medium;
 }
 #itemlinks
 {
@@ -102,14 +98,14 @@ img
     transition: border-left 0.1s linear;
 }
 .efeito:hover{
-    border-left: 15px #29f3c400 solid;
+    border-left: 7px #29f3c400 solid;
 }
 .miniefeito{
     border-left: 0px #29f3c400 solid;
     transition: border-left 0.1s linear;
 }
 .miniefeito:hover{
-    border-left: 5px #29f3c400 solid;
+    border-left: 3px #29f3c400 solid;
 }
 .miniefeito2{
     border-left: 0px #ffffff00 solid;
@@ -119,4 +115,15 @@ img
 .miniefeito2:hover{
     border-left: 3px #ffffff00 solid;
     border-right: 20px #29f3c3 dotted;
+}
+.espaco{
+    margin-bottom: 8px;
+}
+a{
+    text-decoration: none;
+    color: #29f3c3;
+    transition: color 0.2s linear;
+}
+a:hover{
+    color: inherit;
 }
