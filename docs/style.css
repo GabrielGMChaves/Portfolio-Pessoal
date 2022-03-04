@@ -112,3 +112,6 @@ a{
 a:hover{
     color: inherit;
 }
+#dontunderstand:hover{
+    cursor: pointer;
+}
